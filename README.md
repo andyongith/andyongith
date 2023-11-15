@@ -4,4 +4,6 @@ And welcome to my GitHub profile.
 - 🌱 I’m currently learning C
 - 🍀 And also working on a project in C
 - 🎄 However I also know JavaScript
-- 🎈 Fun fact: You're beautiful
+
+### Contacts
+you can contact me in discord, here's my username `andy_on_thiscord`
